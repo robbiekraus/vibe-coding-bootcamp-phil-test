@@ -161,3 +161,5 @@ git pull origin <branch-name>
 
 
 
+## Mein Motto
+"Einfach machen!"
